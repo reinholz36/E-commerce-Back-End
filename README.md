@@ -16,3 +16,8 @@ I connected the back end for an e-commerce site that can be run through the term
 </a>
 
 Link to video demonstration: 
+
+Installation Guide: https://watch.screencastify.com/v/wbxqkfWRDd67qlsjGJSI
+Categories CRUD Guide: https://watch.screencastify.com/v/doVzby5bqjk8ew7CDo9w
+Product CRUD Guide: https://watch.screencastify.com/v/wFcdk9oLUBQHfB4wsaWy
+Tags CRUD Guide: https://watch.screencastify.com/v/tobBAucOYYzUtRke4NeV
